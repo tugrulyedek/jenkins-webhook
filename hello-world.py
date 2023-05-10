@@ -1,1 +1,1 @@
-print('Ahey Ahey')
+print('Cıktıs Cıktıs')
