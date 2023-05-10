@@ -1,1 +1,1 @@
-print(' AAAAAAMİİİİİN ALLAHIM ')
+print('Ahey Ahey')
