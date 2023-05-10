@@ -1,1 +1,1 @@
-print('Cıktıs Cıktıs')
+print('muhtiin')
